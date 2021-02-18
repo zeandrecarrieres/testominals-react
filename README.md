@@ -1,3 +1,3 @@
 # testominals-react
 
-One example of react
+To run : npm start
