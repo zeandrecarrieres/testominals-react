@@ -11,6 +11,7 @@ function App() {
       
       <h1>Testemonials</h1>
       <Cards testemonial={testemonial}/>
+      <button className="button-del" onClick={()=>setTestemonial([])}>Clear</button>
     </div>
   );
 }

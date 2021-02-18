@@ -31,7 +31,15 @@ text-transform: uppercase;
 }
 
 
-
+.button-del {
+  margin-top: 5rem;
+  width: 100px;
+  background-color: brown;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  padding: 1rem .7rem;
+}
 
 
 
